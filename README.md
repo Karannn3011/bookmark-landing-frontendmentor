@@ -36,8 +36,7 @@ Mobile:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Here](https://bookmark-landing-frontendmentor.vercel.app/)
 
 ## My process
 
